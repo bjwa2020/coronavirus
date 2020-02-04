@@ -1,0 +1,159 @@
+[
+    {
+        "name": "梅州市",
+        "center": {
+            "type": "Point",
+            "coordinates": [
+                116.12300003794111,
+                24.288299363961315
+            ]
+        },
+        "updated_at": "2020/02/03 11:08:35",
+        "pois": [
+            {
+                "name": "平远县大柘镇河岭村",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        115.905365,
+                        24.591372
+                    ]
+                },
+                "point": {
+                    "type": "Point",
+                    "coordinates": [
+                        115.905365,
+                        24.591372
+                    ]
+                },
+                "date": "2020-02-01"
+            },
+            {
+                "name": "蕉岭县新铺镇同福村",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        116.119907,
+                        24.532871
+                    ]
+                },
+                "point": {
+                    "type": "Point",
+                    "coordinates": [
+                        116.119907,
+                        24.532871
+                    ]
+                },
+                "date": "2020-01-31"
+            },
+            {
+                "name": "蕉岭县新铺镇中心街",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        116.13529,
+                        24.51697
+                    ]
+                },
+                "point": {
+                    "type": "Point",
+                    "coordinates": [
+                        116.13529,
+                        24.51697
+                    ]
+                },
+                "date": "2020-01-31"
+            },
+            {
+                "name": "梅县区梅州西站高铁站公寓",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        116.048302,
+                        24.249737
+                    ]
+                },
+                "point": {
+                    "type": "Point",
+                    "coordinates": [
+                        116.048302,
+                        24.249737
+                    ]
+                },
+                "date": "2020-01-31"
+            },
+            {
+                "name": "大埔县高陂镇桃花村",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        116.608372,
+                        24.118599
+                    ]
+                },
+                "point": {
+                    "type": "Point",
+                    "coordinates": [
+                        116.608372,
+                        24.118599
+                    ]
+                },
+                "date": "2020-01-31"
+            },
+            {
+                "name": "兴宁市水口镇光夏村",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        115.896879,
+                        23.98285
+                    ]
+                },
+                "point": {
+                    "type": "Point",
+                    "coordinates": [
+                        115.896879,
+                        23.98285
+                    ]
+                },
+                "date": "2020-01-31"
+            },
+            {
+                "name": "兴宁市罗浮镇蕉坑村",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        115.58229,
+                        24.52156
+                    ]
+                },
+                "point": {
+                    "type": "Point",
+                    "coordinates": [
+                        115.58229,
+                        24.52156
+                    ]
+                },
+                "date": "2020-01-31"
+            },
+            {
+                "name": "新陂镇三新村",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        115.67545999997219,
+                        24.156180999975593
+                    ]
+                },
+                "point": {
+                    "type": "Point",
+                    "coordinates": [
+                        115.67545999997219,
+                        24.156180999975593
+                    ]
+                },
+                "date": "2020-02-02"
+            }
+        ]
+    }
+]
