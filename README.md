@@ -10,4 +10,4 @@
 2. 数据多久更新一次？
 
 我们会不定期进行数据采集、整理工作，尽量及时更新数据。
-<a href="https://www.gubi.io/" target="_blank"><img src="https://github.com/bjwa2020/coronavirus/blob/master/1.jpg" border="0"></a>
+<p><a href="https://www.gubi.io/" target="_blank"><img src="https://raw.githubusercontent.com/bjwa2020/coronavirus/master/1.jpg" border="0"></a>
