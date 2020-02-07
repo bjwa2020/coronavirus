@@ -11,6 +11,474 @@
     "updated_at": "2020/02/05 20:07:48",
     "pois": [
       {
+        "name": "梨园当代名筑家园（疑似）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.665124,
+            39.889574
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.665124,
+            39.889574
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "宋庄小堡村西街（疑似）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.714725,
+            39.948352
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.714725,
+            39.948352
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "惠兰美居（疑似）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.677037,
+            39.943649
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.677037,
+            39.943649
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "玉桥东里小区（疑似）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.691493,
+            39.886392
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.691493,
+            39.886392
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "苹果园一区（疑似）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.192225,
+            39.930763
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.192225,
+            39.930763
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "方庄芳星园（疑似）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.435587,
+            39.861633
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.435587,
+            39.861633
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "康营小区（疑似）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.542494,
+            40.035483
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.542494,
+            40.035483
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "望京西园一区（疑似）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.475916,
+            40.00449
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.475916,
+            40.00449
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "北苑家园清友园（疑似）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.427997,
+            40.039291
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.427997,
+            40.039291
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "酒仙桥电子城一号楼（疑似）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.490724,
+            39.98365
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.490724,
+            39.98365
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "育新花园（疑似）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.345377,
+            40.056801
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.345377,
+            40.056801
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "世纪城（疑似）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.28476,
+            39.959934
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.28476,
+            39.959934
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "颐美园（疑似）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.272936,
+            40.03022
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.272936,
+            40.03022
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "新纪元家园（疑似）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.2991,
+            39.964817
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.2991,
+            39.964817
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "方清园（疑似）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.374062,
+            40.032627
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.374062,
+            40.032627
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "富力桃园（疑似）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.378877,
+            40.063637
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.378877,
+            40.063637
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "农大绿苑（疑似）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.288407,
+            40.029792
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.288407,
+            40.029792
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "马连洼柳浪家园（疑似）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.297198,
+            40.030638
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.297198,
+            40.030638
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "永泰庄宝盛里小区（疑似）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.369583,
+            40.03656
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.369583,
+            40.03656
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "真武家园（疑似）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.348544,
+            39.904586
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.348544,
+            39.904586
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "窦店镇河口村（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.167446,
+            39.652186
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.167446,
+            39.652186
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "珠江四季悦城（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.583312,
+            39.760059
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.583312,
+            39.760059
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "北京空军干休所大院（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.372774,
+            39.984875
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.372774,
+            39.984875
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "千鹤家园（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.41951,
+            39.987452
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.41951,
+            39.987452
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "华信医院（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.495622,
+            39.965455
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.495622,
+            39.965455
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "海军研究院（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.324032,
+            39.921993
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.324032,
+            39.921993
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
         "name": "空港街道龙湖滟澜山（确诊）",
         "geometry": {
           "type": "Point",
@@ -281,24 +749,6 @@
         "date": "2020-02-05"
       },
       {
-        "name": "西潞园（确诊）",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            116.132053,
-            39.734259
-          ]
-        },
-        "point": {
-          "type": "Point",
-          "coordinates": [
-            116.132053,
-            39.734259
-          ]
-        },
-        "date": "2020-02-05"
-      },
-      {
         "name": "望泉西区（确诊）",
         "geometry": {
           "type": "Point",
@@ -371,7 +821,7 @@
         "date": "2020-02-05"
       },
       {
-        "name": "清华双清苑8号楼（待验证）",
+        "name": "清华双清苑8号楼（疑似）",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -389,7 +839,7 @@
         "date": "2020-02-05"
       },
       {
-        "name": "海淀黄庄皇冠假日酒店（待验证）",
+        "name": "海淀黄庄皇冠假日酒店（确诊）",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -677,7 +1127,7 @@
         "date": "2020-02-05"
       },
       {
-        "name": "北苑路86号嘉铭园（确诊）",
+        "name": "北苑路86号嘉铭园社区B区（确诊）",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -1429,7 +1879,7 @@
         "date": "2020-02-01"
       },
       {
-        "name": "加州水郡北区130号楼（确诊）",
+        "name": "嘉州水郡北区130号楼（确诊）",
         "geometry": {
           "type": "Point",
           "coordinates": [
