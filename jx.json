@@ -1248,6 +1248,1032 @@
           ]
         },
         "date": "2020-02-05"
+      },
+      {
+        "name": "进贤县李渡镇益康花园",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.180134,
+            28.224258
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.180134,
+            28.224258
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "进贤县文港镇新坪村",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.14651,
+            28.250078
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.14651,
+            28.250078
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "进贤县文港镇",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.127227,
+            28.290004
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.127227,
+            28.290004
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "进贤县文港镇清华城",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.138444,
+            28.284732
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.138444,
+            28.284732
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "进贤县文港镇晏殊大道",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.129379,
+            28.287689
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.129379,
+            28.287689
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "进贤县民和镇世纪新城",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.256341,
+            28.371443
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.256341,
+            28.371443
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "进贤县民和镇云桥路",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.255806,
+            28.344326
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.255806,
+            28.344326
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "进贤县民和镇胜利中路",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.266998,
+            28.366595
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.266998,
+            28.366595
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "进贤县李渡镇李渡大道",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.172607,
+            28.225118
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.172607,
+            28.225118
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "进贤县下埠集乡港东村",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.34181,
+            28.333707
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.34181,
+            28.333707
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "进贤县民和镇五小旁",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.262916,
+            28.358218
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.262916,
+            28.358218
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "进贤县三里乡光辉村",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.402649,
+            28.688485
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.402649,
+            28.688485
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "高新区麻丘镇宝塔村",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.053529,
+            28.643741
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.053529,
+            28.643741
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "高新区麻丘镇刘城村",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.081532,
+            28.674354
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.081532,
+            28.674354
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "高新区麻丘镇麻丘村",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.086332,
+            28.66858
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.086332,
+            28.66858
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "高新区麻丘镇长江村",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.08592,
+            28.69524
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.08592,
+            28.69524
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "高新区麻丘镇瑶湖豪宅",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.072086,
+            28.664282
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.072086,
+            28.664282
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "高新区麻丘镇广安村",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.100841,
+            28.69606
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.100841,
+            28.69606
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "高新区麻丘镇文教路",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.07719,
+            28.666642
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.07719,
+            28.666642
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "高新区麻丘镇厚溪",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.077167,
+            28.650544
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.077167,
+            28.650544
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "高新区麻丘镇麻丘街瑶湖花园",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.084287,
+            28.672779
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.084287,
+            28.672779
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "高新区麻丘镇厚浦街",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.079306,
+            28.666519
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.079306,
+            28.666519
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "高新区麻丘镇瑶湖春天",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.081036,
+            28.667928
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.081036,
+            28.667928
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "高新区麻丘镇闵家村",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.52357,
+            28.755778
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.52357,
+            28.755778
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "高新区麻丘镇孙家",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.095725,
+            28.698094
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.095725,
+            28.698094
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "高新区麻丘镇南岗村",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.092982,
+            28.620847
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.092982,
+            28.620847
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "高新区昌东镇光明村",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.013868,
+            28.681098
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.013868,
+            28.681098
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "高新区昌东镇三联村",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.01656,
+            28.655911
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.01656,
+            28.655911
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "高新区昌东镇尤口街",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.041527,
+            28.719362
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.041527,
+            28.719362
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "高新区昌东镇长胜村",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.008676,
+            28.669137
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.008676,
+            28.669137
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "高新区昌东大道城泰湖韵天成",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.010779,
+            28.709448
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.010779,
+            28.709448
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "高新区艾溪湖管理处广阳小区",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.988419,
+            28.667139
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.988419,
+            28.667139
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "高新区艾溪湖管理处龙江花园",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.965723,
+            28.723698
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.965723,
+            28.723698
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "西湖区桃花镇郭家庄",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.87479,
+            28.659586
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.87479,
+            28.659586
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "西湖区桃花镇三角村",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.880634,
+            28.626631
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.880634,
+            28.626631
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "西湖区桃花镇恒大华府",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.879076,
+            28.624943
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.879076,
+            28.624943
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "西湖区桃花镇桃欣佳苑",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.875368,
+            28.660675
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.875368,
+            28.660675
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "西湖区桃花镇联发君领朝阳",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.868247,
+            28.627774
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.868247,
+            28.627774
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "西湖区桃源街道桃花路",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.882364,
+            28.652785
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.882364,
+            28.652785
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "西湖区朝阳洲街道朝阳小区",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.876906,
+            28.660039
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.876906,
+            28.660039
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "西湖区朝阳洲街道滨江壹号",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.875022,
+            28.668438
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.875022,
+            28.668438
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "西湖区朝阳洲街道桃欣嘉苑",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.875368,
+            28.660675
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.875368,
+            28.660675
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "西湖区朝阳洲街道皇冠国际",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.875819,
+            28.658599
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.875819,
+            28.658599
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "西湖区八一大道永叔路",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.90625,
+            28.665787
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.90625,
+            28.665787
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "西湖区桃苑大街公安小区",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.88683,
+            28.660645
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.88683,
+            28.660645
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "东湖区青山南路阳明锦城",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.902281,
+            28.690052
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.902281,
+            28.690052
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "东湖区永外正街",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.90772,
+            28.690256
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.90772,
+            28.690256
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "东湖区蓝天碧水小区",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.902763,
+            28.693472
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.902763,
+            28.693472
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "东湖区八一大道",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.90318,
+            28.679974
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.90318,
+            28.679974
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "东湖区省府西路",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.906792,
+            28.676125
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.906792,
+            28.676125
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "东湖区北京西路",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.919267,
+            28.674121
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.919267,
+            28.674121
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "东湖区三经路",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.899011,
+            28.697943
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.899011,
+            28.697943
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "东湖区上营坊",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.90125,
+            28.678261
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.90125,
+            28.678261
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "安义县长埠镇车田村",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.63571,
+            28.8073
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.63571,
+            28.8073
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "安义县石鼻镇向坊村",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.608901,
+            28.718468
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.608901,
+            28.718468
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "安义县石鼻镇古楼村",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.549846,
+            28.736421
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.549846,
+            28.736421
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "安义县石鼻镇联合村",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.560674,
+            28.750147
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.560674,
+            28.750147
+          ]
+        },
+        "date": "2020-02-05"
       }
     ]
   }
