@@ -11,6 +11,330 @@
     "updated_at": "2020/02/05 20:07:48",
     "pois": [
       {
+        "name": "庑殿家苑（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.433011,
+            39.820018
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.433011,
+            39.820018
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "世界之花（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.420757,
+            39.817217
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.420757,
+            39.817217
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "云龙家园（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.434436,
+            39.807602
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.434436,
+            39.807602
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "原子能院（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.047329,
+            39.744398
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.047329,
+            39.744398
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "西潞园（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.132053,
+            39.734259
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.132053,
+            39.734259
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "望泉西区（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.631574,
+            40.119715
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.631574,
+            40.119715
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "天居园（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.413625,
+            40.038539
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.413625,
+            40.038539
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "潘家园布丁酒店（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.46185,
+            39.875468
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.46185,
+            39.875468
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "管庄东里医院（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.593723,
+            39.915846
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.593723,
+            39.915846
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "清华双清苑8号楼（待验证）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.342227,
+            40.013486
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.342227,
+            40.013486
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "海淀黄庄皇冠假日酒店（待验证）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.323019,
+            39.975624
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.323019,
+            39.975624
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "海军大院（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.304469,
+            39.902369
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.304469,
+            39.902369
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "北科大社区（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.360852,
+            39.992297
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.360852,
+            39.992297
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "香厂路某水果摊（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.391568,
+            39.887887
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.391568,
+            39.887887
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "西单万方超市（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.341182,
+            39.913526
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.341182,
+            39.913526
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "月坛南街（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.34546,
+            39.913985
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.34546,
+            39.913985
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "北京国际酒店（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.428472,
+            39.909641
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.428472,
+            39.909641
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "花园胡同（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.40369,
+            39.947796
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.40369,
+            39.947796
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
         "name": "庙城镇郑重庄村（确诊）",
         "geometry": {
           "type": "Point",
