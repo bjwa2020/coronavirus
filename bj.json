@@ -11,6 +11,222 @@
     "updated_at": "2020/02/05 20:07:48",
     "pois": [
       {
+        "name": "空港街道龙湖滟澜山（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.501345,
+            40.091729
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.501345,
+            40.091729
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "瑞康家园小区（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.342029,
+            39.739248
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.342029,
+            39.739248
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "泰禾中央广场（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.322161,
+            39.7146
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.322161,
+            39.7146
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "天通苑北一区（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.417835,
+            40.076661
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.417835,
+            40.076661
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "龙泽苑东区（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.327374,
+            40.072996
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.327374,
+            40.072996
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "西潞东里小区（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.135335,
+            39.733345
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.135335,
+            39.733345
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "于家务回族乡崔各庄村（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.714225,
+            39.693599
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.714225,
+            39.693599
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "丰台街道电报局街小区（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.285857,
+            39.850061
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.285857,
+            39.850061
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "卢沟桥街道西府颐园（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.267026,
+            39.882345
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.267026,
+            39.882345
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "亚运村街道安慧北里（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.414287,
+            39.99565
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.414287,
+            39.99565
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "来广营明天第一城（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.409519,
+            40.048137
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.409519,
+            40.048137
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "新街口街道富国里（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.365617,
+            39.929937
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.365617,
+            39.929937
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
         "name": "庑殿家苑（确诊）",
         "geometry": {
           "type": "Point",
@@ -42,24 +258,6 @@
           "coordinates": [
             116.420757,
             39.817217
-          ]
-        },
-        "date": "2020-02-05"
-      },
-      {
-        "name": "云龙家园（确诊）",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            116.434436,
-            39.807602
-          ]
-        },
-        "point": {
-          "type": "Point",
-          "coordinates": [
-            116.434436,
-            39.807602
           ]
         },
         "date": "2020-02-05"
@@ -209,24 +407,6 @@
         "date": "2020-02-05"
       },
       {
-        "name": "海军大院（确诊）",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            116.304469,
-            39.902369
-          ]
-        },
-        "point": {
-          "type": "Point",
-          "coordinates": [
-            116.304469,
-            39.902369
-          ]
-        },
-        "date": "2020-02-05"
-      },
-      {
         "name": "北科大社区（确诊）",
         "geometry": {
           "type": "Point",
@@ -258,24 +438,6 @@
           "coordinates": [
             116.391568,
             39.887887
-          ]
-        },
-        "date": "2020-02-05"
-      },
-      {
-        "name": "西单万方超市（确诊）",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            116.341182,
-            39.913526
-          ]
-        },
-        "point": {
-          "type": "Point",
-          "coordinates": [
-            116.341182,
-            39.913526
           ]
         },
         "date": "2020-02-05"
@@ -465,15 +627,15 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            116.370061,
-            39.963717
+            116.317432,
+            39.949162
           ]
         },
         "point": {
           "type": "Point",
           "coordinates": [
-            116.370061,
-            39.963717
+            116.317432,
+            39.949162
           ]
         },
         "date": "2020-02-05"
