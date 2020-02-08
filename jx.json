@@ -121,6 +121,43 @@
         "date": "2020-02-01"
       },
       {
+        "name": "章贡区西桥路19号8栋1单元",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            114.922314,
+            25.856937
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            114.922314,
+            25.856937
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      ,
+      {
+        "name": "大余县南安镇",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            114.36974,
+            25.395525
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            114.36974,
+            25.395525
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
         "name": "龙南县杨村镇五星村",
         "geometry": {
           "type": "Point",
@@ -710,7 +747,43 @@
         "date": "2020-02-05"
       },
       {
-        "name": "青云谱区三家店街道城南教师委村",
+        "name": "青云谱区水榭花都小区1栋2单元",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.902083,
+            28.626131
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.902083,
+            28.626131
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "青云谱区三家店街道三店村南苑村小组",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.918888,
+            28.61981
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.918888,
+            28.61981
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "青云谱区三家店街道城南教师公寓1栋1单元",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -728,7 +801,7 @@
         "date": "2020-02-05"
       },
       {
-        "name": "上海南路墅溪公寓",
+        "name": "上海南路墅溪公寓32栋2单元",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -746,7 +819,7 @@
         "date": "2020-02-05"
       },
       {
-        "name": "三家店街道井冈山大道",
+        "name": "三家店街道井冈山大道198号3栋3单元",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -764,7 +837,7 @@
         "date": "2020-02-05"
       },
       {
-        "name": "长棱镇莱卡小镇",
+        "name": "长棱镇莱卡小镇2区19栋1单元",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -872,6 +945,24 @@
         "date": "2020-02-05"
       },
       {
+        "name": "蛟桥镇德益财苑小区12栋1单元",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.858607,
+            28.745045
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.858607,
+            28.745045
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
         "name": "蛟桥镇枫林东大街",
         "geometry": {
           "type": "Point",
@@ -890,7 +981,7 @@
         "date": "2020-02-05"
       },
       {
-        "name": "沙井街道万达华府",
+        "name": "沙井街道万达华府2栋2单元",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -926,7 +1017,25 @@
         "date": "2020-02-05"
       },
       {
-        "name": "沙井街道莱蒙都会",
+        "name": "湾里区保利半山诺森伯兰15栋1单元",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.76203,
+            28.716298
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.76203,
+            28.716298
+          ]
+        },
+        "date": "2020-01-30"
+      },
+      {
+        "name": "沙井街道莱蒙都会南区13栋",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -944,7 +1053,7 @@
         "date": "2020-02-05"
       },
       {
-        "name": "沙井街道卫东花园",
+        "name": "沙井街道卫东花园三期C区5栋2单元",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -1119,6 +1228,24 @@
           "coordinates": [
             115.945081,
             28.548496
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "青云谱区城南佳园28栋3单元",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.943006,
+            28.635913
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.943006,
+            28.635913
           ]
         },
         "date": "2020-02-05"
@@ -1304,7 +1431,7 @@
         "date": "2020-02-05"
       },
       {
-        "name": "进贤县文港镇清华城",
+        "name": "进贤县文港镇清华城3栋2单元",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -1358,19 +1485,19 @@
         "date": "2020-02-05"
       },
       {
-        "name": "进贤县民和镇云桥路",
+        "name": "进贤县民和镇云桥社区高岭路37号",
         "geometry": {
           "type": "Point",
           "coordinates": [
-            116.255806,
-            28.344326
+            116.25934,
+            28.359069
           ]
         },
         "point": {
           "type": "Point",
           "coordinates": [
-            116.255806,
-            28.344326
+            116.25934,
+            28.359069
           ]
         },
         "date": "2020-02-05"
@@ -1862,7 +1989,7 @@
         "date": "2020-02-05"
       },
       {
-        "name": "西湖区桃花镇三角村",
+        "name": "西湖区桃花镇三角村安置小区11栋2单元",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -2078,7 +2205,7 @@
         "date": "2020-02-05"
       },
       {
-        "name": "东湖区永外正街",
+        "name": "东湖区永外正街217号4栋4单元",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -2204,7 +2331,7 @@
         "date": "2020-02-05"
       },
       {
-        "name": "安义县长埠镇车田村",
+        "name": "安义县长埠镇车田村帅万组区域",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -2222,7 +2349,25 @@
         "date": "2020-02-05"
       },
       {
-        "name": "安义县石鼻镇向坊村",
+        "name": "安义县龙津镇文峰北街341号",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.558113,
+            28.839487
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.558113,
+            28.839487
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "安义县石鼻镇向坊村后坊组",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -2240,7 +2385,7 @@
         "date": "2020-02-05"
       },
       {
-        "name": "安义县石鼻镇古楼村",
+        "name": "安义县石鼻镇古楼村古二组",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -2258,7 +2403,7 @@
         "date": "2020-02-05"
       },
       {
-        "name": "安义县石鼻镇联合村",
+        "name": "安义县石鼻镇联合村面前组",
         "geometry": {
           "type": "Point",
           "coordinates": [
