@@ -11,6 +11,24 @@
     "updated_at": "2020/02/09 18:07:48",
     "pois": [
       {
+        "name": "夏家园大通澜石6号楼",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.446979,
+            39.970636
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.446979,
+            39.970636
+          ]
+        },
+        "date": "2020-02-09"
+      },
+      {
         "name": "瑞海家园二区",
         "geometry": {
           "type": "Point",
@@ -461,7 +479,7 @@
         "date": "2020-02-06"
       },
       {
-        "name": "康营小区）",
+        "name": "康营小区",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -2284,6 +2302,24 @@
     "updated_at": "2020/02/01 08:50:48",
     "pois": [
       {
+        "name": "史各庄镇陈甫村（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            117.24443,
+            39.730347
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            117.24443,
+            39.730347
+          ]
+        },
+        "date": "2020-02-09"
+      },
+      {
         "name": "宁河区王北村（确诊）",
         "geometry": {
           "type": "Point",
@@ -2334,6 +2370,60 @@
           ]
         },
         "date": "2020-02-01"
+      },
+      {
+        "name": "宝坻区窝贝厂村（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            117.533503,
+            39.603517
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            117.533503,
+            39.603517
+          ]
+        },
+        "date": "2020-02-09"
+      },
+      {
+        "name": "宝坻区菜芽庄村（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            117.373447,
+            39.60422
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            117.373447,
+            39.60422
+          ]
+        },
+        "date": "2020-02-09"
+      },
+      {
+        "name": "宝坻区田家桥村（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            117.414386,
+            39.505662
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            117.414386,
+            39.505662
+          ]
+        },
+        "date": "2020-02-09"
       },
       {
         "name": "宝坻区华苑东区（确诊）",
@@ -2406,6 +2496,60 @@
           ]
         },
         "date": "2020-02-04"
+      },
+      {
+        "name": "宝平街道瑞景花园小区（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            117.311241,
+            39.722373
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            117.311241,
+            39.722373
+          ]
+        },
+        "date": "2020-02-09"
+      },
+      {
+        "name": "宝平街道逸城雅园小区（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            117.300258,
+            39.706013
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            117.300258,
+            39.706013
+          ]
+        },
+        "date": "2020-02-09"
+      },
+      {
+        "name": "宝平街道安田心屿小区（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            117.297667,
+            39.717968
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            117.297667,
+            39.717968
+          ]
+        },
+        "date": "2020-02-09"
       },
       {
         "name": "宝平街道宝境檀香小区（确诊）",
@@ -2576,6 +2720,24 @@
         "date": "2020-02-01"
       },
       {
+        "name": "宝平街道华苑东区（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            117.296759,
+            39.739265
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            117.296759,
+            39.739265
+          ]
+        },
+        "date": "2020-02-07"
+      },
+      {
         "name": "宝平街道凯旋家园小区（确诊）",
         "geometry": {
           "type": "Point",
@@ -2592,6 +2754,78 @@
           ]
         },
         "date": "2020-02-07"
+      },
+      {
+        "name": "朝霞街道开元新居小区（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            117.287893,
+            39.735728
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            117.287893,
+            39.735728
+          ]
+        },
+        "date": "2020-02-09"
+      },
+      {
+        "name": "朝霞街道状元城小区（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            117.287893,
+            39.735728
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            117.287893,
+            39.735728
+          ]
+        },
+        "date": "2020-02-09"
+      },
+      {
+        "name": "宝平街道河景嘉园小区（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            117.28941,
+            39.701559
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            117.28941,
+            39.701559
+          ]
+        },
+        "date": "2020-02-09"
+      },
+      {
+        "name": "钰华街道金玉四园小区（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            117.327759,
+            39.713531
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            117.327759,
+            39.713531
+          ]
+        },
+        "date": "2020-02-09"
       },
       {
         "name": "钰华街道顺驰小区（确诊）",
