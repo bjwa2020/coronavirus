@@ -2553,8 +2553,116 @@
         39.085294
       ]
     },
-    "updated_at": "2020/02/01 08:50:48",
+    "updated_at": "2020/02/11 08:50:48",
     "pois": [
+      {
+        "name": "北辰区果园新村街（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            117.138442,
+            39.221197
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            117.138442,
+            39.221197
+          ]
+        },
+        "date": "2020-02-11"
+      },
+      {
+        "name": "北辰区双口镇（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            117.036523,
+            39.227785
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            117.036523,
+            39.227785
+          ]
+        },
+        "date": "2020-02-11"
+      },
+      {
+        "name": "河东区大直沽街（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            117.246534,
+            39.109686
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            117.246534,
+            39.109686
+          ]
+        },
+        "date": "2020-02-11"
+      },
+      {
+        "name": "河北区望海楼街（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            117.207713,
+            39.161065
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            117.207713,
+            39.161065
+          ]
+        },
+        "date": "2020-02-11"
+      },
+      {
+        "name": "林亭口镇林亭口五村（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            117.517985,
+            39.636758
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            117.517985,
+            39.636758
+          ]
+        },
+        "date": "2020-02-09"
+      },
+      {
+        "name": "海滨街道和远领居小区（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            117.342499,
+            39.732746
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            117.342499,
+            39.732746
+          ]
+        },
+        "date": "2020-02-10"
+      },
       {
         "name": "史各庄镇陈甫村（确诊）",
         "geometry": {
