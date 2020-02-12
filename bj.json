@@ -8,8 +8,44 @@
         39.906947
       ]
     },
-    "updated_at": "2020/02/11 16:27:48",
+    "updated_at": "2020/02/12 16:27:48",
     "pois": [
+      {
+        "name": "东直门新中街18号",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.440691,
+            39.935708
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.440691,
+            39.935708
+          ]
+        },
+        "date": "2020-02-11"
+      },
+      {
+        "name": "广安门外红居南街1号院",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.340178,
+            39.883385
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.340178,
+            39.883385
+          ]
+        },
+        "date": "2020-02-11"
+      },
       {
         "name": "通州区马驹桥镇北口村",
         "geometry": {
@@ -875,19 +911,19 @@
         "date": "2020-02-06"
       },
       {
-        "name": "北京空军干休所大院",
+        "name": "北京空军大院干休所",
         "geometry": {
           "type": "Point",
           "coordinates": [
-            116.372774,
-            39.984875
+            116.455533,
+            39.847695
           ]
         },
         "point": {
           "type": "Point",
           "coordinates": [
-            116.372774,
-            39.984875
+            116.455533,
+            39.847695
           ]
         },
         "date": "2020-02-06"
@@ -1905,6 +1941,204 @@
         "date": "2020-02-01"
       },
       {
+        "name": "新贤家园",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.632995,
+            40.326559
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.632995,
+            40.326559
+          ]
+        },
+        "date": "2020-02-01"
+      },
+      {
+        "name": "马坡北辰墅院",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.655119,
+            40.18431
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.655119,
+            40.18431
+          ]
+        },
+        "date": "2020-02-01"
+      },
+      {
+        "name": "大峪龙山家园",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.096585,
+            39.935709
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.096585,
+            39.935709
+          ]
+        },
+        "date": "2020-02-01"
+      },
+      {
+        "name": "云冈南里东区",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.162724,
+            39.806148
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.162724,
+            39.806148
+          ]
+        },
+        "date": "2020-02-01"
+      },
+      {
+        "name": "双石第二社区附近",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.43211,
+            39.84068
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.43211,
+            39.84068
+          ]
+        },
+        "date": "2020-02-01"
+      },
+      {
+        "name": "马连店家园",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.345426,
+            40.09072
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.345426,
+            40.09072
+          ]
+        },
+        "date": "2020-02-01"
+      },
+      {
+        "name": "龙湖长楹天街",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.599591,
+            39.924542
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.599591,
+            39.924542
+          ]
+        },
+        "date": "2020-02-01"
+      },
+      {
+        "name": "保利茉莉公馆",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.328852,
+            39.77496
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.328852,
+            39.77496
+          ]
+        },
+        "date": "2020-02-01"
+      },
+      {
+        "name": "南海家园七里",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.494299,
+            39.756993
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.494299,
+            39.756993
+          ]
+        },
+        "date": "2020-02-01"
+      },
+      {
+        "name": "牛栏山一中",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.664317,
+            40.222775
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.664317,
+            40.222775
+          ]
+        },
+        "date": "2020-02-01"
+      },
+      {
+        "name": "君城国际学校",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.500093,
+            40.095727
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.500093,
+            40.095727
+          ]
+        },
+        "date": "2020-02-01"
+      },
+      {
         "name": "来广营广华居",
         "geometry": {
           "type": "Point",
@@ -2555,6 +2789,24 @@
     },
     "updated_at": "2020/02/11 08:50:48",
     "pois": [
+      {
+        "name": "南开区王顶堤（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            117.141354,
+            39.092302
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            117.141354,
+            39.092302
+          ]
+        },
+        "date": "2020-02-11"
+      },
       {
         "name": "北辰区果园新村街（确诊）",
         "geometry": {
