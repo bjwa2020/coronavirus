@@ -8,8 +8,116 @@
         39.906947
       ]
     },
-    "updated_at": "2020/02/12 16:27:48",
+    "updated_at": "2020/02/13 18:27:48",
     "pois": [
+      {
+        "name": "润枫锦尚小区",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.428662,
+            39.790737
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.428662,
+            39.790737
+          ]
+        },
+        "date": "2020-02-12"
+      },
+      {
+        "name": "天通东苑二区",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.439374,
+            40.065447
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.439374,
+            40.065447
+          ]
+        },
+        "date": "2020-02-12"
+      },
+      {
+        "name": "北亚花园社区",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.421618,
+            40.130872
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.421618,
+            40.130872
+          ]
+        },
+        "date": "2020-02-12"
+      },
+      {
+        "name": "南庭新苑北区",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.368955,
+            39.806868
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.368955,
+            39.806868
+          ]
+        },
+        "date": "2020-02-12"
+      },
+      {
+        "name": "右安门街道家和园小区",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.360717,
+            39.860327
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.360717,
+            39.860327
+          ]
+        },
+        "date": "2020-02-12"
+      },
+      {
+        "name": "莲花池东路甲5号院",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.338668,
+            39.898047
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.338668,
+            39.898047
+          ]
+        },
+        "date": "2020-02-12"
+      },
       {
         "name": "东直门新中街18号",
         "geometry": {
@@ -2787,8 +2895,26 @@
         39.085294
       ]
     },
-    "updated_at": "2020/02/11 08:50:48",
+    "updated_at": "2020/02/13 11:50:48",
     "pois": [
+      {
+        "name": "北辰区瑞景街（确诊）",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            117.106433,
+            39.195624
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            117.106433,
+            39.195624
+          ]
+        },
+        "date": "2020-02-12"
+      },
       {
         "name": "南开区王顶堤（确诊）",
         "geometry": {
