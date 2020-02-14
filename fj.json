@@ -9,8 +9,44 @@
         24.47909932807779
       ]
     },
-    "updated_at": "2020/02/11 23:40:05",
+    "updated_at": "2020/02/14 14:14:35",
     "pois": [
+      {
+        "name": "荷塘区月塘街道果木园小区",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            113.173521,
+            27.8327
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            113.173521,
+            27.8327
+          ]
+        },
+        "date": "2020-02-14"
+      },
+      {
+        "name": "新店镇浦园一里明发半岛翔湾18号",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            118.232342,
+            24.564804
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            118.232342,
+            24.564804
+          ]
+        },
+        "date": "2020-02-13"
+      },
       {
         "name": "嵩屿街道沧虹路331号汇利花园A栋",
         "geometry": {
@@ -1317,8 +1353,44 @@
         24.87360027704549
       ]
     },
-    "updated_at": "2020/02/09 20:16:41",
+    "updated_at": "2020/02/13 20:35:02",
     "pois": [
+      {
+        "name": "磁灶镇东山村",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            118.526898,
+            24.793782
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            118.526898,
+            24.793782
+          ]
+        },
+        "date": "2020-02-13"
+      },
+      {
+        "name": "晋江机场汽车站",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            118.592215,
+            24.802766
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            118.592215,
+            24.802766
+          ]
+        },
+        "date": "2020-02-13"
+      },
       {
         "name": "涂寨镇庄内村",
         "geometry": {
