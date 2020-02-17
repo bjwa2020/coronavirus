@@ -29,6 +29,24 @@
         "date": "2020-02-15"
       },
       {
+        "name": "康泽佳苑南区1号楼",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.2078,
+            39.767038
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.2078,
+            39.767038
+          ]
+        },
+        "date": "2020-02-16"
+      },
+      {
         "name": "长阳镇祥云街1号院",
         "geometry": {
           "type": "Point",
@@ -47,7 +65,7 @@
         "date": "2020-02-15"
       },
       {
-        "name": "翠城熙园小区",
+        "name": "翠城熙园小区407、418楼",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -83,7 +101,7 @@
         "date": "2020-02-12"
       },
       {
-        "name": "天通东苑二区",
+        "name": "天通东苑二区37号楼",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -227,7 +245,7 @@
         "date": "2020-02-11"
       },
       {
-        "name": "中关村街道软件小区",
+        "name": "中关村街道软件小区328楼",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -245,7 +263,7 @@
         "date": "2020-02-11"
       },
       {
-        "name": "三里河三区",
+        "name": "三里河三区6号楼",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -713,7 +731,7 @@
         "date": "2020-02-06"
       },
       {
-        "name": "宋庄小堡村西街",
+        "name": "宋庄小堡村西街（已出院）",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -1307,7 +1325,7 @@
         "date": "2020-02-06"
       },
       {
-        "name": "天通苑北一区（确诊）",
+        "name": "天通苑北一区2号楼（确诊）",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -1467,6 +1485,60 @@
           ]
         },
         "date": "2020-02-06"
+      },
+      {
+        "name": "航天五院",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.272541,
+            40.075729
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.272541,
+            40.075729
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "京煤集团",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.107013,
+            39.934204
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.107013,
+            39.934204
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "畅春园社区",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.30029,
+            39.992757
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.30029,
+            39.992757
+          ]
+        },
+        "date": "2020-02-05"
       },
       {
         "name": "庑殿家苑",
@@ -1865,7 +1937,7 @@
         "date": "2020-02-05"
       },
       {
-        "name": "慈云寺北里（确诊）",
+        "name": "慈云寺北里109楼（确诊）",
         "geometry": {
           "type": "Point",
           "coordinates": [
