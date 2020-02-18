@@ -8,8 +8,26 @@
         39.906947
       ]
     },
-    "updated_at": "2020/02/18 10:27:48",
+    "updated_at": "2020/02/18 20:27:48",
     "pois": [
+      {
+        "name": "国典华园小区",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.410894,
+            39.974783
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.410894,
+            39.974783
+          ]
+        },
+        "date": "2020-02-18"
+      },
       {
         "name": "顺义望泉寺西里",
         "geometry": {
@@ -515,7 +533,7 @@
         "date": "2020-02-09"
       },
       {
-        "name": "世纪东方嘉园",
+        "name": "世纪东方嘉园104号楼",
         "geometry": {
           "type": "Point",
           "coordinates": [
