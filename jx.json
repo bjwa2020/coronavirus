@@ -11,6 +11,24 @@
     "updated_at": "2020/02/01 08:50:48",
     "pois": [
       {
+        "name": "兴国县高兴镇蒙山村",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.302263,
+            26.415818
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.302263,
+            26.415818
+          ]
+        },
+        "date": "2020-02-01"
+      },
+      {
         "name": "金樽花园6栋2单元",
         "geometry": {
           "type": "Polygon",
@@ -121,6 +139,24 @@
         "date": "2020-02-01"
       },
       {
+        "name": "迎宾大道26号华坚汽车城宿舍1、2栋",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            114.902714,
+            25.847261
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            114.902714,
+            25.847261
+          ]
+        },
+        "date": "2020-02-09"
+      },
+      {
         "name": "章贡区西桥路19号8栋1单元",
         "geometry": {
           "type": "Point",
@@ -138,7 +174,6 @@
         },
         "date": "2020-02-06"
       },
-      ,
       {
         "name": "大余县南安镇",
         "geometry": {
@@ -248,7 +283,7 @@
         "date": "2020-02-01"
       },
       {
-        "name": "茅店镇杨洞村（确诊）",
+        "name": "茅店镇杨洞村（出院）",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -602,6 +637,204 @@
     },
     "updated_at": "2020/02/06 08:50:48",
     "pois": [
+      {
+        "name": "东湖区商城凤凰印象2栋3单元",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.874937,
+            28.711096
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.874937,
+            28.711096
+          ]
+        },
+        "date": "2020-02-12"
+      },
+      {
+        "name": "青山湖区罗万村",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.959784,
+            28.692997
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.959784,
+            28.692997
+          ]
+        },
+        "date": "2020-02-09"
+      },
+      {
+        "name": "西湖区朝阳中路怡滨花园",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.876194,
+            28.662708
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.876194,
+            28.662708
+          ]
+        },
+        "date": "2020-02-09"
+      },
+      {
+        "name": "东湖区爱国路92号",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.891433,
+            28.693491
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.891433,
+            28.693491
+          ]
+        },
+        "date": "2020-02-09"
+      },
+      {
+        "name": "东湖区青山路207号",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.910694,
+            28.69668
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.910694,
+            28.69668
+          ]
+        },
+        "date": "2020-02-09"
+      },
+      {
+        "name": "红谷滩新区众森红谷一品小区一期35栋1单元",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.837139,
+            28.699224
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.837139,
+            28.699224
+          ]
+        },
+        "date": "2020-02-09"
+      },
+      {
+        "name": "京东镇世纪风情一期7栋1单元",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.966846,
+            28.672059
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.966846,
+            28.672059
+          ]
+        },
+        "date": "2020-02-09"
+      },
+      {
+        "name": "罗家镇京川花园",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.94086,
+            28.599894
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.94086,
+            28.599894
+          ]
+        },
+        "date": "2020-02-09"
+      },
+      {
+        "name": "岱山街道城市溪地小区29栋1单元",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.916289,
+            28.611671
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.916289,
+            28.611671
+          ]
+        },
+        "date": "2020-02-09"
+      },
+      {
+        "name": "进贤县文港镇镇前路4号",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.254188,
+            28.359661
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.254188,
+            28.359661
+          ]
+        },
+        "date": "2020-02-09"
+      },
+      {
+        "name": "八一乡莲谢东路",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            115.99198,
+            28.578172
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            115.99198,
+            28.578172
+          ]
+        },
+        "date": "2020-02-09"
+      },
       {
         "name": "塘山镇香溢花城",
         "geometry": {
@@ -981,7 +1214,7 @@
         "date": "2020-02-05"
       },
       {
-        "name": "沙井街道万达华府2栋2单元",
+        "name": "沙井街道万达华府2栋2单元（解封）",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -1593,19 +1826,37 @@
         "date": "2020-02-05"
       },
       {
-        "name": "高新区麻丘镇宝塔村",
+        "name": "高新区麻丘镇张家自然村",
         "geometry": {
           "type": "Point",
           "coordinates": [
-            116.053529,
-            28.643741
+            115.60694,
+            28.693749
           ]
         },
         "point": {
           "type": "Point",
           "coordinates": [
-            116.053529,
-            28.643741
+            115.60694,
+            28.693749
+          ]
+        },
+        "date": "2020-02-06"
+      },
+      {
+        "name": "高新区麻丘镇宝塔村吴库自然村",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.058861,
+            28.631788
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.058861,
+            28.631788
           ]
         },
         "date": "2020-02-05"
@@ -1863,7 +2114,7 @@
         "date": "2020-02-05"
       },
       {
-        "name": "高新区昌东镇三联村",
+        "name": "高新区昌东镇三联村章家自然村",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -2133,7 +2384,7 @@
         "date": "2020-02-05"
       },
       {
-        "name": "西湖区朝阳洲街道皇冠国际",
+        "name": "西湖区朝阳洲街道皇冠国际（解封）",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -2331,7 +2582,7 @@
         "date": "2020-02-05"
       },
       {
-        "name": "安义县长埠镇车田村帅万组区域",
+        "name": "安义县长埠镇车田村帅万组区域（解封）",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -2349,7 +2600,7 @@
         "date": "2020-02-05"
       },
       {
-        "name": "安义县龙津镇文峰北街341号",
+        "name": "安义县龙津镇文峰北街341号（解封）",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -2367,7 +2618,7 @@
         "date": "2020-02-05"
       },
       {
-        "name": "安义县石鼻镇向坊村后坊组",
+        "name": "安义县石鼻镇向坊村后坊组（解封）",
         "geometry": {
           "type": "Point",
           "coordinates": [
