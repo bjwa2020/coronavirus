@@ -8,8 +8,44 @@
         39.906947
       ]
     },
-    "updated_at": "2020/02/14 18:27:48",
+    "updated_at": "2020/02/18 10:27:48",
     "pois": [
+      {
+        "name": "顺义望泉寺西里",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.620485,
+            40.118798
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.620485,
+            40.118798
+          ]
+        },
+        "date": "2020-02-05"
+      },
+      {
+        "name": "东城花园胡同10号",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.403989,
+            39.946995
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.403989,
+            39.946995
+          ]
+        },
+        "date": "2020-02-06"
+      },
       {
         "name": "梨园镇梨园家属院",
         "geometry": {
@@ -99,6 +135,24 @@
           ]
         },
         "date": "2020-02-12"
+      },
+      {
+        "name": "天通苑东三区2号",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.439332,
+            40.07243
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.439332,
+            40.07243
+          ]
+        },
+        "date": "2020-02-17"
       },
       {
         "name": "天通东苑二区37号楼",
