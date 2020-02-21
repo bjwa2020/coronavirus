@@ -11,6 +11,61 @@
     "updated_at": "2020/02/19 16:27:48",
     "pois": [
       {
+        "name": "荧屏里1号楼",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.491279,
+            39.989596
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.491279,
+            39.989596
+          ]
+        },
+        "date": "2020-02-20"
+      },
+      {
+        "name": "静安中心(当当网)",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.440312,
+            39.960303
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.440312,
+            39.960303
+          ]
+        },
+        "date": "2020-02-21"
+      },
+      {
+        "name": "苏州街公寓(辟谣)",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.305897,
+            39.976439
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.305897,
+            39.976439
+          ]
+        },
+        "source": "健康海淀2-20",
+        "date": "2020-02-19"
+      },
+      {
         "name": "三义东里",
         "geometry": {
           "type": "Point",
@@ -29,7 +84,7 @@
         "date": "2020-02-19"
       },
       {
-        "name": "三里河一区",
+        "name": "三里河一区51号楼",
         "geometry": {
           "type": "Point",
           "coordinates": [
