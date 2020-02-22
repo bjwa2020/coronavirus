@@ -8,8 +8,81 @@
         39.906947
       ]
     },
-    "updated_at": "2020/02/19 16:27:48",
+    "updated_at": "2020/02/22 10:57:10",
     "pois": [
+      {
+        "name": "陶然亭汉庭酒店(密接隔离区)",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.381909,
+            39.880931
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.381909,
+            39.880931
+          ]
+        },
+        "date": "2020-02-22"
+      },
+      {
+        "name": "国勤绿地红山口(待公布)",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.267624,
+            40.00951
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.267624,
+            40.00951
+          ]
+        },
+        "date": "2020-02-22"
+      },
+      {
+        "name": "西门子大厦",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.472888,
+            39.985384
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.472888,
+            39.985384
+          ]
+        },
+        "date": "2020-02-21"
+      },
+      {
+        "name": "常营福第社区6号院6号楼(确诊)",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.600314,
+            39.929217
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.600314,
+            39.929217
+          ]
+        },
+        "source": "常营福第居委会2-21",
+        "date": "2020-02-21"
+      },
       {
         "name": "荧屏里1号楼",
         "geometry": {
@@ -390,7 +463,7 @@
         "date": "2020-02-12"
       },
       {
-        "name": "东直门新中街18号",
+        "name": "东直门新中街18号阳光都市2号楼",
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -2190,7 +2263,7 @@
         "date": "2020-02-05"
       },
       {
-        "name": "复兴门外大街甲20号（确诊）",
+        "name": "复兴门外大街甲20号复兴医院（确诊）",
         "geometry": {
           "type": "Point",
           "coordinates": [
