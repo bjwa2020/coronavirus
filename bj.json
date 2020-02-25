@@ -8,8 +8,27 @@
         39.906947
       ]
     },
-    "updated_at": "2020/02/24 16:57:10",
+    "updated_at": "2020/02/25 12:57:10",
     "pois": [
+      {
+        "name": "裕民路甲3号",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.387318,
+            39.974401
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.387318,
+            39.974401
+          ]
+        },
+        "source": "北京市疾控中心",
+        "date": "2020-02-24"
+      },
       {
         "name": "建工大厦",
         "geometry": {
