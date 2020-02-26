@@ -8,8 +8,44 @@
         39.906947
       ]
     },
-    "updated_at": "2020/02/25 12:57:10",
+    "updated_at": "2020/02/26 23:57:10",
     "pois": [
+      {
+        "name": "新怡家园7号楼",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.414162,
+            39.897976
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.414162,
+            39.897976
+          ]
+        },
+        "date": "2020-02-24"
+      },
+      {
+        "name": "新盛大厦",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.359054,
+            39.920604
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.359054,
+            39.920604
+          ]
+        },
+        "date": "2020-01-23"
+      },
       {
         "name": "裕民路甲3号",
         "geometry": {
@@ -245,6 +281,24 @@
           "coordinates": [
             116.354131,
             39.936517
+          ]
+        },
+        "date": "2020-02-19"
+      },
+      {
+        "name": "北大人民医院白塔寺院区",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            116.365506,
+            39.923974
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            116.365506,
+            39.923974
           ]
         },
         "date": "2020-02-19"
@@ -4196,8 +4250,29 @@
         31.230000555238348
       ]
     },
-    "updated_at": "2020/02/23 21:52:05",
+    "updated_at": "2020/02/26 22:31:29",
     "pois": [
+      {
+        "name": "白鹤镇青龙村",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            121.176583,
+            31.239322
+          ]
+        },
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            121.176583,
+            31.239322
+          ]
+        },
+        "date": "2020-02-26",
+        "county": "青浦区",
+        "city": "上海市",
+        "province": "上海市"
+      },
       {
         "name": "龙湖天璞小区",
         "geometry": {
