@@ -3,6 +3,8 @@
 
 <h1><font color="red">已经停止更新</font></h1>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=bjwa2020&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true" />
+
 1. 疫情场所的数据来源是什么？
 
 数据来自各城市卫健委等官方微信公众号、官方网站、（北京市包含网友反馈）等，因疫情防控政策及各地区要求，个别数据存在发布后修改、删除、撤销等不可抗因素，可能会存在遗漏、错误或非实时数据情况，请谅解！同时欢迎指出数据错误。
